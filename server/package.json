@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ojigs/jollify.git"
+    "url": "git+https://github.com/Sanimuhammad09/Jollify.git"
   },
   "author": "Emmanuel Ojighoro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ojigs/jollify/issues"
+    "url": "https://github.com/Sanimuhammad09/Jollify/issues"
   },
-  "homepage": "https://github.com/ojigs/jollify#readme",
+  "homepage": "https://github.com/Sanimuhammad09/Jollify#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^1.40.0",

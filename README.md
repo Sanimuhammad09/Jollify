@@ -38,7 +38,7 @@ Node and npm installed
 
 ### Clone the Repository
 ```bash 
-git clone https://github.com/ojigs/jollify.git
+git clone https://github.com/Sanimuhammad09/Jollify
 
 cd jollify
 ```
@@ -173,9 +173,5 @@ Contributions are welcome! Here's how you can contribute to the Jollify project:
 ![Home](./jollify_3.jpg)
 
 ## Author
-Emmanuel Ojighoro <a href="https://www.twitter.com/emmaojigs" target="_blank">@emmaojigs</a> 
+Sani Muhammad </a> 
 
-https://ojigs.netlify.app
-
-## License
-Jollify is licensed under the ISC License. See [LICENSE](LICENSE) file for more details.
